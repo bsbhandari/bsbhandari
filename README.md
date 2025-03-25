@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">✨Hi there, it's Bhupendra!✨</h1>
 
-<!--
-**bsbhandari/bsbhandari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Here's some stuff about me:
 
-Here are some ideas to get you started:
+- 🌍 From Uttarakhand, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/bsbhandari">
+  <img align="center" height="160em"
+    src="https://github-readme-stats.vercel.app/api?username=bsbhandari&custom_title=My%20Github%20Stats%21&theme=vue&count_private=true&include_all_commits=true&show_icons=true"
+  />
+  <img align="center"  height="160em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsbhandari&custom_title=Most%20used %20languages&theme=vue&hide=ampl,tex&layout=compact&langs_count=6&size_weight=0.75&count_weight=0.25"
+  />
+</a>
